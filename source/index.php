@@ -1,4 +1,4 @@
-<h1>Hello Class of IT610!</h1>
+<h1>Hello Class members of IT610!</h1>
 <h4>Attempting MySQL connection from php...</h4>
 <!--?php 
 $host = 'mysql';
